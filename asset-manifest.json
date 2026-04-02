@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ozon-petcare/static/css/main.2508c812.css",
+    "main.js": "/ozon-petcare/static/js/main.67542b5b.js",
+    "static/js/453.ab94221e.chunk.js": "/ozon-petcare/static/js/453.ab94221e.chunk.js",
+    "index.html": "/ozon-petcare/index.html",
+    "main.2508c812.css.map": "/ozon-petcare/static/css/main.2508c812.css.map",
+    "main.67542b5b.js.map": "/ozon-petcare/static/js/main.67542b5b.js.map",
+    "453.ab94221e.chunk.js.map": "/ozon-petcare/static/js/453.ab94221e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2508c812.css",
+    "static/js/main.67542b5b.js"
+  ]
+}
