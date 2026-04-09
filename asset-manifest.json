@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ozon-petcare/static/css/main.f688c53e.css",
-    "main.js": "/ozon-petcare/static/js/main.0e3742c9.js",
+    "main.css": "/ozon-petcare/static/css/main.48eaadad.css",
+    "main.js": "/ozon-petcare/static/js/main.12e4fabe.js",
     "static/js/453.ab94221e.chunk.js": "/ozon-petcare/static/js/453.ab94221e.chunk.js",
     "index.html": "/ozon-petcare/index.html",
-    "main.f688c53e.css.map": "/ozon-petcare/static/css/main.f688c53e.css.map",
-    "main.0e3742c9.js.map": "/ozon-petcare/static/js/main.0e3742c9.js.map",
+    "main.48eaadad.css.map": "/ozon-petcare/static/css/main.48eaadad.css.map",
+    "main.12e4fabe.js.map": "/ozon-petcare/static/js/main.12e4fabe.js.map",
     "453.ab94221e.chunk.js.map": "/ozon-petcare/static/js/453.ab94221e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f688c53e.css",
-    "static/js/main.0e3742c9.js"
+    "static/css/main.48eaadad.css",
+    "static/js/main.12e4fabe.js"
   ]
 }
